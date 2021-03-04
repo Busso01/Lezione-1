@@ -119,7 +119,7 @@ class Calcolatrice { //classe non eseguibile e non pubblica
             System.out.println(C.esegui("32/") + "\n");
 
             System.out.println("Eseguo istruzioni 53% (resto della divisione)");
-            System.out.println(C.esegui("53%#") + "\n");
+            System.out.println(C.esegui("53%") + "\n");
 
             System.out.println("Eseguo istruzioni ns (individuo stringa s e calcolo 2n+1)");
             System.out.println(C.esegui("3"+s1) + "\n");
